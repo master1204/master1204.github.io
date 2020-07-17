@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-	color: white;
+	color: pink;
 	font-family: 'Do Hyeon', sans-serif;
 	position: relative;
 	bottom: -250px;
@@ -18,7 +18,7 @@ h1 {
 
 
 h2 {
-	color: white;
+	color: pink;
 	font-family: 'Do Hyeon', sans-serif;
 	position: relative;
 	bottom: -250px;
@@ -28,7 +28,7 @@ h2 {
 img {
 	border-radius: 50%;
 	border: 5px solid #fff;
-	position: relative;
+	position: fixed;
 	bottom: -250px;
 
 

@@ -1,12 +1,4 @@
 
-
-
-body {
-	background: black;
-	background:url(img/bucaramanga.jpg);
-	background-size: 100% auto;
-}
-
 h1 {
 	color: pink;
 	font-family: 'Do Hyeon', sans-serif;
@@ -34,4 +26,8 @@ img {
 
 
 }
+body {
+	background: black;
+	background:url(img/bucaramanga.jpg);
+	background-size: 100% auto;
 

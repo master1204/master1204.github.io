@@ -28,7 +28,6 @@ img {
 
 }
 body {
-	background: black;
-	background:url(img/bucaramanga.jpg);
-	background-size: 100% auto;
+	background:url(img/1.jpg);
+	background-position:auto ;
 
